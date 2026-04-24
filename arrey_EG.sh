@@ -1,2 +1,2 @@
 COURCES=( "AI" "GenAI" "MLOPS" "AIOps" "RAG" )
-echo "First learn $COURCES(3)"
+echo "First learn ${COURCES[3]}"
